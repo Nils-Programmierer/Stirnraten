@@ -1,0 +1,26 @@
+{
+    "theme_color": "#0099ff",
+    "background_color": "#e4e4e4",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "img/icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "img/icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "de",
+    "name": "Stirnraten",
+    "short_name": "Stirnraten",
+    "description": "Stirnraten ist eine spaßige App, bei der Spieler Begriffe erraten, die auf ihren Stirn angezeigt werden, während ihre Mitspieler Hinweise geben. Schnelligkeit und Kreativität sind gefragt, um so viele Begriffe wie möglich in kürzester Zeit zu erraten. Ideal für Partys und gesellige Runden!",
+    "start_url": "/Stirnraten/index.html"
+}

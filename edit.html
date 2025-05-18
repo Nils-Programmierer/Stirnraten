@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bearbeiten | Stirnraten</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="img/icon512_rounded.png" type="image/png">
+    <script defer src="index.js"></script>
+</head>
+
+
+<header>
+    <div class="align-middle">
+        <div class="headline">Stirnraten</div>
+    </div>
+    <div class="header-left">
+        <nav>
+            <a href="index.html">Kategorien</a>
+            <a href="guide.html">Anleitung</a>
+        </nav>
+    </div>
+</header>
+
+
+<body onload="LoadWords();">
+    <div class="content">
+        <h2>Bearbeiten:</h2>
+        <input type="text" id="word" placeholder="Begriff" required>
+        <br>
+        <br>
+        <button type="submit" class="save" onclick='window.location.href="index.html"'>Zurück</button>
+        <br>
+        <br>
+        <button type="submit" class="delete" onclick="Delete();">Löschen</button>
+        <br>
+        <br>
+        <button type="submit" class="save" onclick="AddWord();">Hinzufügen</button>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h3>Alle Begriffe:</h3>
+        <div class="text" id="all-words"></div>
+        <br>
+        <br>
+    </div>
+</body>
+
+</html>
