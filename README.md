@@ -37,5 +37,4 @@ Dieses Projekt verwendet HTML, CSS und JavaScript.
 
 ### 📱 Schwenken mit dem Handy
 
-Sollte das Schwenken mit dem Handy nicht klappen, sind wahrscheinlich die Bewegungssensoren des Handys deaktiviert.  
-Diese müssen davor aktiviert werden. Eine Anleitung dazu findest du [hier](https://support.google.com/chrome/answer/114662?hl=de-419&co=GENIE.Platform%3DAndroid).
+Sollte das Schwenken mit dem Handy nicht klappen, sind wahrscheinlich die Bewegungssensoren des Handys deaktiviert. Diese müssen davor aktiviert werden. Eine Anleitung dazu findest du [hier](https://support.google.com/chrome/answer/114662?hl=de-419&co=GENIE.Platform%3DAndroid).
